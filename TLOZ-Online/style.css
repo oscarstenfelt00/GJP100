@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    height:100%;
+    background-image: url(./Img/TLOZ-Background.webp);
+    background-position: top;
+}
+canvas{
+    display: block;
+    margin: 0 auto;
+    margin-top: 15em;
+    margin-bottom: 2em;
+
+}
+
+#spel{
+    background-color: white;
+}
